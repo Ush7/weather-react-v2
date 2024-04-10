@@ -8,7 +8,7 @@ function App() {
         <h1>Hello World</h1>
         <Weather />
         <footer>
-          <a href="">Open source</a> code by Unisha Shilpakar
+          <a href="/">Open source</a> code by Unisha Shilpakar
         </footer>
       </header>
     </div>
